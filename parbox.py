@@ -51,7 +51,7 @@ for i in x:
     print (i, wf, wf**2)
 
 
-print ('Expectation value of position: ', sum(expecpp)/npoints)
+#print ('Expectation value of position: ', sum(expecpp)/npoints)
 #print ('Expectation value of position: ', sum(darray))
 #print ('tps: ', sum(darray)-sum(expecpp))
 
