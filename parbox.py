@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-__author__ = "Muammar El Khatib; Edoardo Fertitta."
-__copyright__ = "Copyright 2014, Muammar El Khatib; Edoardo Fertitta."
+__author__ = "Muammar El Khatib."
+__copyright__ = "Copyright 2016, Muammar El Khatib."
 __credits__ = [""]
 __license__ = "GPL"
 __version__ = "3"
